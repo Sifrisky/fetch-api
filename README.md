@@ -1,4 +1,4 @@
-## My firts FETCH-API
+## My first FETCH-API
 
 # Comsumir API Publica con JavaScript.
 
